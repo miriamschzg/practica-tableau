@@ -19,6 +19,6 @@ Además, se utilizó la función "Top N" en Tableau para filtrar y mostrar tipos
 
 ## Resultados
 
-El análisis realizado permitió identificar tendencias importantes en el mercado de alquiler de Airbnb, así como los barrios o zonas con los precios de alquiler más altos o más bajos. Esto proporcionó información valiosa para propietarios, inquilinos y profesionales del sector inmobiliario para tomar decisiones informadas.
+El análisis realizado permitió identificar tendencias importantes en el mercado de alquiler de Airbnb, así como los barrios o zonas con los precios de alquiler más altos o más bajos. Esto puede proporcionar información valiosa para propietarios, inquilinos y profesionales del sector inmobiliario para tomar decisiones informadas.
 
 
