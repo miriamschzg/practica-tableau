@@ -1,4 +1,15 @@
 # Practica-tableau-Airbnb-listings-Madrid
+
+**Importante**
+
+Para calcular el precio promedio total se sumaron el precio por noche, la fianza y la tasa de limpieza.
+
+- Sin embargo, como la función AVG excluye a los nulos, empleé la función **ZN** para aquellos que no tenian fianza ni tasa de limpieza lo contase como valor 0.
+
+De esta forma, ahora sí están incluidos en las visualizaciones finales.
+
+También he excluído valores del mapa por código postal aquellos que no pertenecen a la ciudad de Madrid, como Las Rozas o Torrejón de Ardoz.
+
 ## Descripción
 
 Este repositorio de Tableau muestra como se distribuye el precio promedio final del alquiler de una propiedad Airbnb en la ciudad de Madrid. Se exploraron diferentes aspectos del mercado de alquiler, como las tendencias de precios por barrio y código postal, la distribución de los precios de alquiler y los factores que influyen en las variaciones de precios.
@@ -15,7 +26,6 @@ En esta práctica de Tableau, se utilizaron diversas técnicas y visualizaciones
 - Gráficos de líneas para mostrar el precio promedio del tipo de propiedad en la ciudad de Madrid.
 
 Además, se utilizó la función "Top N" en Tableau para filtrar y mostrar tipos de propiedades.
-
 
 ## Resultados
 
