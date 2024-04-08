@@ -1,6 +1,6 @@
 # Practica-tableau-Airbnb-listings-Madrid
 
-##Importante
+## Importante
 
 Para calcular el precio promedio total se sumaron el precio por noche, la fianza y la tasa de limpieza.
 
